@@ -1,5 +1,5 @@
-github.com/ElrondNetwork/Test02-renamed v1.0.1-0.20211026102314-58137f458088 h1:BkBQLwK1+ZW8TvHLCkl/glLoeMdLZSqLH8kd1b8IEVE=
-github.com/ElrondNetwork/Test02-renamed v1.0.1-0.20211026102314-58137f458088/go.mod h1:ZxjfnfKM1N5nlow1hKx2N4d6pGizpJeZpStO+QSSHoM=
+github.com/ElrondNetwork/Test02-renamed v1.0.5 h1:wNVGJoYLTqurSkV8v+YaAqk6u31cBGFudzmwX+I6YeI=
+github.com/ElrondNetwork/Test02-renamed v1.0.5/go.mod h1:ZxjfnfKM1N5nlow1hKx2N4d6pGizpJeZpStO+QSSHoM=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
