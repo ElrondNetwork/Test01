@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/ElrondNetwork/Test02/components"
+	"github.com/ElrondNetwork/Test02-renamed/components"
 )
 
 func main() {
